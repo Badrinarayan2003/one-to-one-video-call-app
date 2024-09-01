@@ -14,7 +14,7 @@ const Room = () => {
             sharedLinks: [
                 {
                     name: 'Copy Link',
-                    url: `http://localhost:3000/room/${roomId}`,
+                    url: `https://videocalllling.netlify.app/room/${roomId}`,
                 }
             ],
             scenario: {

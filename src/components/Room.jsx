@@ -18,7 +18,7 @@ const Room = () => {
                 }
             ],
             scenario: {
-                mode: ZegoUIKitPrebuilt.GroupCall,
+                mode: ZegoUIKitPrebuilt.OneONoneCall,
             },
             showScreenSharingButton: false,
         });

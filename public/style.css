@@ -1,0 +1,9 @@
+.home-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.room-section h1{
+    text-align: center;
+}
